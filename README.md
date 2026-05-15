@@ -35,7 +35,6 @@ Connects students with lost items to university staff through image similarity m
 - [Installation](#-installation)
 - [Project Structure](#-project-structure)
 - [Results](#-results)
-- [Screenshots](#-screenshots)
 - [Future Work](#-future-work)
 
 ---
@@ -457,35 +456,6 @@ kmitl-claimit/
 | Image similarity test dataset | 50 objects × 2 backgrounds |
 | Email notification threshold | ≥ 0.70 cosine similarity + same category |
 
----
-
-## 📸 Screenshots
-
-### User Side
-
-| Landing | Login | Sign Up |
-|:---:|:---:|:---:|
-| ![Landing](docs/screenshots/user_landing.png) | ![Login](docs/screenshots/user_login.png) | ![Signup](docs/screenshots/user_signup.png) |
-
-| Home | Upload Form | My Lost Items |
-|:---:|:---:|:---:|
-| ![Home](docs/screenshots/user_home.png) | ![Upload](docs/screenshots/user_upload.png) | ![MyLost](docs/screenshots/user_my_lost.png) |
-
-| Recommended | Found Items | Email Notify |
-|:---:|:---:|:---:|
-| ![Recommended](docs/screenshots/user_recommended.png) | ![Found](docs/screenshots/user_found.png) | ![Email](docs/screenshots/user_email.png) |
-
-### Admin Side
-
-| Dashboard | Upload Form | Lost Items |
-|:---:|:---:|:---:|
-| ![Dashboard](docs/screenshots/admin_dashboard.png) | ![Upload](docs/screenshots/admin_upload.png) | ![Lost](docs/screenshots/admin_lost.png) |
-
-| Record Received | Received Items | Found Items |
-|:---:|:---:|:---:|
-| ![Record](docs/screenshots/admin_record.png) | ![Received](docs/screenshots/admin_received.png) | ![Found](docs/screenshots/admin_found.png) |
-
-> Screenshots are located in `docs/screenshots/`. Place your actual screenshot files there and the table above will render correctly on GitHub.
 
 ---
 
