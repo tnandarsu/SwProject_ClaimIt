@@ -302,7 +302,7 @@ Background features dominated VGG16 feature vectors in raw images — two differ
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kmitl-claimit.git
+git clone https://github.com/tnandarsu/kmitl-claimit.git
 cd kmitl-claimit
 ```
 
