@@ -47,7 +47,7 @@ University campuses generate hundreds of lost item reports each semester, yet mo
 1. Letting students report lost items with photos and descriptions
 2. Letting administrators (lost and found office staff) log found items
 3. Automatically comparing found items against all outstanding lost reports using **computer vision**
-4. **Notifying users via email** when a visual match is found (≥70% similarity)
+4. Notifying users via email when a visual match is found (≥70% similarity)
 
 ---
 
